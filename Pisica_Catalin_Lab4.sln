@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pisica_Catalin_Lab4", "Pisica_Catalin_Lab4.csproj", "{53C4B41B-51D0-4E87-8DE1-6FC7C548C87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{42B7B897-5713-4442-AE14-E8FC6349AEEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53C4B41B-51D0-4E87-8DE1-6FC7C548C87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C4B41B-51D0-4E87-8DE1-6FC7C548C87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C4B41B-51D0-4E87-8DE1-6FC7C548C87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C4B41B-51D0-4E87-8DE1-6FC7C548C87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B7B897-5713-4442-AE14-E8FC6349AEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B7B897-5713-4442-AE14-E8FC6349AEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B7B897-5713-4442-AE14-E8FC6349AEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B7B897-5713-4442-AE14-E8FC6349AEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23390D85-FD9A-49AA-AB61-31B3E11139CF}
+	EndGlobalSection
+EndGlobal
